@@ -13,13 +13,6 @@
 # GOAL
  - To improve my skills and learn more about technology so I can have a good job in the future.
 
-<details>
-<summary><b>view my another details</summary>
-
-#
- - Cat lover
- - Food lover
- - Purple lover
 
 
 
