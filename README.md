@@ -15,8 +15,7 @@
 
 <details>
 <summary><b>view my another details</summary>
-
- #
+#
  - Cat lover
  - Food lover
  - Purple lover
