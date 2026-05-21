@@ -1,4 +1,4 @@
-# *MY PORTFOLIO*
+# *My Portfolio*
 # **I’m Haziel Ann Selose, a BSIT student.** 
 
  - Cat lover
