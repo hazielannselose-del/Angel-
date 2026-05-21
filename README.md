@@ -1,10 +1,6 @@
 # *My Portfolio*
 # **I’m Haziel Ann Selose, a BSIT student. I may not be good at programming yet, but I’m willing to learn and improve my skills every day.** 
 
- - Cat lover
- - Food lover
- - Purple lover
-
 # HOBBIES 
  - Reading Wattpad 📖
  - Sleep 
