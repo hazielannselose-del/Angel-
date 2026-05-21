@@ -12,7 +12,5 @@
  - Table tennis 🏓 
  - Volleyball 🏐 
 # GOAL
- - To improve my skills and learn more about technology to have a good job in the future.
- 
-
+ - To improve my skills and learn more about technology so I can have a good job in the future.
 
