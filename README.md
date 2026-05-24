@@ -19,7 +19,7 @@ I’m Haziel Ann Selose, a BSIT student. I may not be good at programming yet, b
 <summary><b>view my other achievement</summary>
 
 # 
-Table Tennis Champion 🏓🏆 
+- Table Tennis Champion 🏓🏆 
 - [angel](https://www.instagram.com/p/DWjL2v2CalW/?igsh=dm12MzUyaHpoYXo4)
 
 
