@@ -10,9 +10,9 @@ I’m Haziel Ann Selose, a BSIT student. I may not be good at programming yet, b
 
 
 # CERTIFICATES/ACHIEVEMENTS
--INFINITY EDUCATIONAL DEVELOPMENT SYSTEM 
+- INFINITY EDUCATIONAL DEVELOPMENT SYSTEM 
  November 25, 2023
--FOOD AND BEVERAGES SERVICES NC II
+- FOOD AND BEVERAGES SERVICES NC II
  February 22, 2025 - February 21, 2030
 
 [angel](https://www.instagram.com/p/DWjL2v2CalW/?igsh=dm12MzUyaHpoYXo4)
