@@ -1,15 +1,6 @@
 # *MY PORTFOLIO*
 
-
-# PERSONAL INFORMATION 
-
-I’m Haziel Ann Selose, a BSIT student. I may not be good at programming yet, but I’m willing to learn and improve my skills.
-
-
-
-
-# GOAL
- - To improve my skills and learn more about technology so I can have a good job in the future.
+I’m Haziel Ann Selose, a 19-year-old BSIT student. I love reading Wattpad stories, cooking, spending time with cats, and watching sunsets. Purple is my favorite color because it gives me peace and comfort. I may not be good at programming yet, but I am willing to learn, improve my skills, and grow little by little. I believe that with patience, hard work, and determination, I can achieve my goals and become successful in the future.
 
 
 # SKILLS
