@@ -15,6 +15,11 @@ I’m Haziel Ann Selose, a BSIT student. I may not be good at programming yet, b
 - FOOD AND BEVERAGES SERVICES NC II
  February 22, 2025 - February 21, 2030
 
+<details>
+<summary><b>view my other achievement</summary>
+
+# Table Tennis Champion 🏓🏆 
+- ECT DEPARTMENT 
 [angel](https://www.instagram.com/p/DWjL2v2CalW/?igsh=dm12MzUyaHpoYXo4)
 
 
