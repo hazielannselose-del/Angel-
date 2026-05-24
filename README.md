@@ -21,9 +21,9 @@ I’m Haziel Ann Selose, a 19-year-old BSIT student. I love reading Wattpad stor
 
 # CERTIFICATES/ACHIEVEMENTS
 - INFINITY EDUCATIONAL DEVELOPMENT SYSTEM 
- November 25, 2023
+- November 25, 2023
 - FOOD AND BEVERAGES SERVICES NC II
- February 22, 2025 - February 21, 2030
+- February 22, 2025 - February 21, 2030
 
 <details>
 <summary><b>view my other achievement</summary>
