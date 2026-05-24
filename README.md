@@ -1,12 +1,31 @@
-# *My Portfolio*
+# *MY PORTFOLIO*
+
+
+# PERSONAL INFORMATION 
+
 I’m Haziel Ann Selose, a BSIT student. I may not be good at programming yet, but I’m willing to learn and improve my skills.
+
+
+
+
+# GOAL
+ - To improve my skills and learn more about technology so I can have a good job in the future.
+
+
+# SKILLS
+- HTML
+- Designing 
+
+
+# PROJECT
+- Restaurant Prototype Design
+- Dessert Menu System 
 
 
 
 # SPORTS 
  - Table tennis 🏓 
  - Volleyball 🏐
-
 
 
 # CERTIFICATES/ACHIEVEMENTS
@@ -24,8 +43,6 @@ I’m Haziel Ann Selose, a BSIT student. I may not be good at programming yet, b
 
 
 
-# GOAL
- - To improve my skills and learn more about technology so I can have a good job in the future.
 
 
 
