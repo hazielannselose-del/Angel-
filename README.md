@@ -29,8 +29,8 @@ I’m Haziel Ann Selose, a 19-year-old BSIT student. I love reading Wattpad stor
 <summary><b>view my other achievement</summary>
 
 # 
-- Table Tennis Champion 🏓🏆 
-- [angel](https://www.instagram.com/p/DWjL2v2CalW/?igsh=dm12MzUyaHpoYXo4)
+- 🏓 Table Tennis Champion 🏆 
+- ECT Department Intramural 2026 🎉🔥 [angel](https://www.instagram.com/p/DWjL2v2CalW/?igsh=dm12MzUyaHpoYXo4)
 
 
 
