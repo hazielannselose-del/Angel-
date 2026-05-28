@@ -1,7 +1,7 @@
 # *MY PORTFOLIO*
 
 
-PERSONAL INFORMATION 
+**PERSONAL INFORMATION** 
 - Name: Haziel Ann T. Selose
 - Course: Bachelor of Science in Information Technology 
 - Year: 1st Year
